@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyderproject
+.spyproject
+.vscode/
+.venv/
+get_yahoo_data/
